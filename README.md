@@ -15,6 +15,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 * [Minas Programam](http://minasprogramam.com)
 * [Mulheres na Tecnologia](http://www.mulheresnatecnologia.org)
 * [OS4W](https://os4w.org/): Open Source for Women (OS4W) is a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors.
+* [Lambda Ladies] (http://www.lambdaladies.com/): Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. 
 
 ##Articles
 * [What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
